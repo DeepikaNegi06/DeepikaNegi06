@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 <h2>📫 Social Media Handles</h2>
 
 [![Visits Badge](https://badges.pufler.dev/visits/DeepikaNegi06/DeepikaNegi06)](https:DeepikaNegi06.dev)
@@ -20,3 +20,7 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Editor-Adobe-informational?style=flat&logo=adobe&logoColor=white&color=4AB197)
+
+<h1 align="center">
+    Stay Awesome and Happy Hacking..
+</h1>
