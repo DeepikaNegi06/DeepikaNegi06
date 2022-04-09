@@ -1,4 +1,7 @@
-### Hey 👋
+### 😎 Hey! Nice to see you..
+<p>Welcome to my page!</br>
+I'm Deepika, Developer from  Delhi, India, currently living in  Mayur Vihar, Delhi.</p>
+
 <h2>📫 Social Media Handles</h2>
 
 [![Visits Badge](https://badges.pufler.dev/visits/DeepikaNegi06/DeepikaNegi06)](https:DeepikaNegi06.dev)
